@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/local/kunhuahuang/develop/llvm/build-llvm/CMakeFiles'
+let g:netrw_dirhist_2='/home/local/kunhuahuang/llvm/llvm_project_cpukh/llvm/include/llvm'
+let g:netrw_dirhist_3='/home/local/kunhuahuang/llvm/llvm_project_cpukh/example_code/Chapter2'
+let g:netrw_dirhist_4='/home/local/kunhuahuang/llvm/llvm_project_cpukh/example_cpu0/Cpukh/MCTargetDesc'
+let g:netrw_dirhist_5='/home/local/kunhuahuang/gcc_compiler/source/gcc-4.9.1/gcc/config/msp430'
+let g:netrw_dirhist_6='/home/local/kunhuahuang/zedboard/linux_kernel/source/build/linux_kernel_diligent'
